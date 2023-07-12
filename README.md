@@ -101,6 +101,10 @@ To test the web app run the following command:
 - GitHub: [Tafloninno](https://github.com/Tafloninno)
 - LinkedIn: [Mugisha Innocent](https://www.linkedin.com/in/mugisha-innocent/)
 
+  
+# 🔭 Future Features:
+- Add better UI design
+
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
