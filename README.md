@@ -80,6 +80,15 @@ Example command:
  ```sh 
     bundle install (install all dependencies)
   ```
+   ```sh 
+    npm install
+  ```
+   ```sh 
+    yarn install
+  ```
+   ```sh 
+    rake assets:precompile
+  ```
 ### Usage
 To run the project redirecting to the root directory of the project and run the following command:
  ```sh 
